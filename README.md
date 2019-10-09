@@ -6,6 +6,7 @@ This is a repository created to remember the Hacktober Fest organized by Github,
 *Do Contribute Your Name If You Are Part Of Hacktober Fest 2019!!*
 <ul>
 <li> <a href="https://github.com/asubodh/">Subodh Aryal</a> | <a href="https://techybug.com/">Techy Bug</a><li>
+<li> <a href="https://iritesh37.com/">Ritesh Sapkota</a> | <a href="https://techybug.com/">Techy Bug</a><li>
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*
