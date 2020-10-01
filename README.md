@@ -1,13 +1,13 @@
-# HacktoberFest2019
+# HacktoberFest2020
 This is a repository created to remember the Hacktober Fest organized by Github, DigitalOcean and Dev.
 
-![Hacktober Logo ](https://hacktoberfest.digitalocean.com/assets/logo-hf19-full-10f3c000cea930c76acc1dedc516ea7118b95353220869a3051848e45ff1d656.svg)
+![Hacktober Logo ](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png)
 
-*Do Contribute Your Name If You Are Part Of Hacktober Fest 2019!!*
+*Do Contribute Your Name If You Are Part Of Hacktober Fest 2020!!*
 <ul>
 <li> <a href="https://github.com/asubodh/">Subodh Aryal</a> | <a href="https://techybug.com/">Techy Bug</a><li>
 
 *Please follow the github Markdown format strictly else PR request might get neglected.*
 *Change the demo details and enter your details there, make sure to leave a demo markdown code there for other as it was before.*
 
-* [Be a part of HacktoberFest2019](https://hacktoberfest.digitalocean.com/)
+* [Be a part of HacktoberFest2020](https://hacktoberfest.digitalocean.com/)
