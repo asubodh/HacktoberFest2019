@@ -1,7 +1,7 @@
 # HacktoberFest2020
 This is a repository created to remember the Hacktober Fest organized by Github, DigitalOcean and Dev.
 
-![Hacktober Logo ](https://images.prismic.io/www-static/e6c04b47-bd9d-474a-9d25-ab143f47349e_Hacktoberfest2020.png)
+![Hacktober Logo ](https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=960x540)
 
 *Do Contribute Your Name If You Are Part Of Hacktober Fest 2020!!*
 <ul>
